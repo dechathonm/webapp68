@@ -20,6 +20,10 @@
     <input type="radio" name="employee" value="2">nat
     <input type="radio" name="employee" value="3">dear<br>
 
+    <input type="hidden" type="datetime-local" name="Product_datetime-local">
+
+   <input type="submit" name="submit" value="OK">
+        <input type="reset" name="reset" value="CANCEL">
 
    </form>
 </html>
