@@ -47,4 +47,6 @@ else if($Product_employee == '3'){
     echo "<br>";
     echo "Product Employee : dear";
 }
+
+echo "Product Datetime :" .date('Y-m-d\TH:i')."<br>";
 ?>
