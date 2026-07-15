@@ -5,7 +5,7 @@ $sql ="SELECT * FROM tb_member;";
 $result = mysqli_query($link,$sql);
 ?>
 <html>
-    <table border="1">
+    <table border="2">
         <tr>
             <td>ID</td>
             <td>NAME</td>
