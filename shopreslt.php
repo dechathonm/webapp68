@@ -1,3 +1,8 @@
+<html>
+    <form name="frm_register" method="POST" action="show_shop.php">
+        <input type="submit" name="submit" value="SHOW">
+        </form>
+    </html>
 <?php
 INCLUDE "connectshop.php";
 $product_name = $_POST['product_name'];

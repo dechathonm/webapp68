@@ -9,8 +9,8 @@ $result = mysqli_query($link,$sql);
         <tr>
             <td>ID</td>
             <td>NAME</td>
-            <td>E-MAIL</td>
-            <td>PHONE</td>
+            <td>PRICE</td>
+            <td>BRANd</td>
         </rt>
         <?php
         while($arr = mysqli_fetch_array($result))
